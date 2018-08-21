@@ -25,6 +25,7 @@ workshop-4
 workshop-5
 
 * run yo
+* create cf app for composer
 * build, install, and start the business network
 * inspect businees network
 
